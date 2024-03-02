@@ -21,7 +21,6 @@ type FactionTraitSymbol string
 
 // List of FactionTraitSymbol
 const (
-	BUREAUCRATIC FactionTraitSymbol = "BUREAUCRATIC"
 	SECRETIVE FactionTraitSymbol = "SECRETIVE"
 	CAPITALISTIC FactionTraitSymbol = "CAPITALISTIC"
 	INDUSTRIOUS FactionTraitSymbol = "INDUSTRIOUS"
@@ -36,7 +35,6 @@ const (
 	RAIDERS FactionTraitSymbol = "RAIDERS"
 	CLAN FactionTraitSymbol = "CLAN"
 	GUILD FactionTraitSymbol = "GUILD"
-	DOMINION FactionTraitSymbol = "DOMINION"
 	FRINGE FactionTraitSymbol = "FRINGE"
 	FORSAKEN FactionTraitSymbol = "FORSAKEN"
 	ISOLATED FactionTraitSymbol = "ISOLATED"
@@ -54,7 +52,6 @@ const (
 	RESOURCEFUL FactionTraitSymbol = "RESOURCEFUL"
 	FLEXIBLE FactionTraitSymbol = "FLEXIBLE"
 	COOPERATIVE FactionTraitSymbol = "COOPERATIVE"
-	UNITED FactionTraitSymbol = "UNITED"
 	STRATEGIC FactionTraitSymbol = "STRATEGIC"
 	INTELLIGENT FactionTraitSymbol = "INTELLIGENT"
 	RESEARCH_FOCUSED FactionTraitSymbol = "RESEARCH_FOCUSED"

@@ -29,8 +29,6 @@ const (
 	WHITE_DWARF SystemType = "WHITE_DWARF"
 	BLACK_HOLE SystemType = "BLACK_HOLE"
 	HYPERGIANT SystemType = "HYPERGIANT"
-	NEBULA SystemType = "NEBULA"
-	UNSTABLE SystemType = "UNSTABLE"
 )
 
 // All allowed values of SystemType enum

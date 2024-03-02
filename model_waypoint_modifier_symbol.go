@@ -21,7 +21,6 @@ type WaypointModifierSymbol string
 
 // List of WaypointModifierSymbol
 const (
-	STRIPPED WaypointModifierSymbol = "STRIPPED"
 	UNSTABLE WaypointModifierSymbol = "UNSTABLE"
 	RADIATION_LEAK WaypointModifierSymbol = "RADIATION_LEAK"
 	CRITICAL_LIMIT WaypointModifierSymbol = "CRITICAL_LIMIT"
